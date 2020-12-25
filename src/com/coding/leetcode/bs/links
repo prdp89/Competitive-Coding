@@ -1,0 +1,20 @@
+https://leetcode.com/problems/find-k-th-smallest-pair-distance/discuss/109082/Approach-the-problem-using-the-%22trial-and-error%22-algorithm
+
+Lastly here is a list of LeetCode problems that can be solved using the trial and error algorithm (you're welcome to add more examples):
+
+786. K-th Smallest Prime Fraction
+
+774 Minimize Max Distance to Gas Station
+
+719. Find K-th Smallest Pair Distance
+
+668. Kth Smallest Number in Multiplication Table
+
+644. Maximum Average Subarray II
+
+378. Kth Smallest Element in a Sorted Matrix
+
+Anyway, this post is just a reminder to you that the trial and error algorithm is worth trying if
+you find all other common solutions suffer severely from bad time or space performance. Also it's
+always recommended to perform a quick evaluation of the search space size and potential verification
+algorithm to estimate the complexity before you are fully committed to this algorithm.
