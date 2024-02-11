@@ -49,6 +49,7 @@ public class FreEleQuery {
         list.sort(String::compareTo);
 
         PriorityQueue<Map.Entry<Character, Integer>> pq = new PriorityQueue<>((a, b) -> b.getKey() - a.getValue());
+        //pq.addAll(list);
 
 
         for(int item : A) {

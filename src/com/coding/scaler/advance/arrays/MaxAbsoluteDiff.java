@@ -26,6 +26,8 @@ public class MaxAbsoluteDiff {
      */
     public static void main(String[] args) {
         System.out.println(solve(new int[] {1, 3, -1}));
+
+        System.out.println(solveMethod2(new int[] {1, 3, -1}));
     }
 
     /**
@@ -55,5 +57,29 @@ public class MaxAbsoluteDiff {
         }
 
         return Math.max(max1 - min1, max2 - min2);
+    }
+
+    private static int solveMethod2(int[] A) {
+        int max1 = Integer.MIN_VALUE;
+        int min1 = Integer.MAX_VALUE;
+
+        int res = 0;
+
+        int [] sign = {1, -1};
+
+        for(int j=0; j<2; j++) {
+            max1 = Integer.MIN_VALUE;
+            min1 = Integer.MAX_VALUE;
+
+            for (int i=0; i<A.length; i++) {
+                int sum = A[i] * sign[j] + i;
+                max1 = Math.max(max1, sum);
+                min1 = Math.min(min1, sum);
+
+                res = Math.max(res , max1 - min1);
+            }
+        }
+
+        return res;
     }
 }

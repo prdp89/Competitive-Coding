@@ -32,6 +32,7 @@ public class SubmatrixSumWithQueries {
     }
 
     //Main prefix formula for submatriz sum:
+    //check diagram in notes for formula:
     //pf(i,j) = pf(a2, b2) - pf(a2, b1-1) - pf(a1-1, b2) + pf(a1-1, b1-1)
 
     /**
@@ -48,9 +49,11 @@ public class SubmatrixSumWithQueries {
      [12, 28]
 
      Explanation 1:
+     query1: (B[0], C[0]) (1,1)  (D[0], E[0]) (2,2)
      For query 1: Submatrix contains elements: 1, 2, 4 and 5. So, their sum is 12.
-     For query 2: Submatrix contains elements: 5, 6, 8 and 9. So, their sum is 28.
 
+     query1: (B[1], C[1]) (2,2)  (D[1], E[1]) (3,3)
+     For query 2: Submatrix contains elements: 5, 6, 8 and 9. So, their sum is 28.
      * @return
      */
     private static int[] solve(int[][] A, int[] B, int[] C, int[] D, int[] E) {

@@ -2,6 +2,26 @@ package com.coding.scaler.advance.arrays.twodarray;
 
 public class MaxSubMatrixSum {
 
+    /**
+     * Given a row-wise and column-wise sorted matrix A of size N * M.
+     * Return the maximum non-empty submatrix sum of this matrix.
+     *
+     * Input 1:-
+     *     -5 -4 -3
+     * A = -1  2  3
+     *      2  2  4
+     *
+     * Output 1:-
+     * 12
+     *
+     * Expanation 1:-
+     * The submatrix with max sum is
+     * -1 2 3
+     *  2 2 4
+     *
+     *  Sum is 12.
+     * @param args
+     */
     public static void main(String[] args) {
         System.out.println(solve(new int[][]{
                 {-5, -4, -3},

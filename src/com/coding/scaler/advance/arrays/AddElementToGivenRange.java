@@ -1,8 +1,6 @@
 package com.coding.scaler.advance.arrays;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class AddElementToGivenRange {
 
@@ -14,7 +12,30 @@ public class AddElementToGivenRange {
                 {2, 5, 25}
         };
 
-        System.out.println(Arrays.toString(solve(a, b)));
+        //System.out.println(Arrays.toString(solve(a, b)));
+
+        countOfStrings(new ArrayList<String>(Arrays.asList("any", "string", "here", "string")));
+
+    }
+
+    private static int countOfStrings(List<String> str) {
+        int count  = 0;
+
+        Map<String, Integer> map = new HashMap<>();
+        for (String item: str) {
+            map.put(item, map.getOrDefault(item, 0) + 1);
+        }
+
+        int max = Integer.MIN_VALUE;
+        for (String value: map.keySet()) {
+           max = Math.max(map.get(value), max);
+        }
+
+
+
+        //str.stream().map()
+
+        return count;
     }
 
     /**

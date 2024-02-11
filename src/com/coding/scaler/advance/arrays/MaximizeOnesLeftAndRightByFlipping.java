@@ -6,6 +6,7 @@ public class MaximizeOnesLeftAndRightByFlipping {
 
     //This qut. is combo of AddElementToGivenRange and Kadane's Algo
     public static void main(String[] args) {
+
         System.out.println(Arrays.toString(flip("010")));
     }
 
@@ -19,6 +20,27 @@ public class MaximizeOnesLeftAndRightByFlipping {
      * If you don't want to perform the operation, return an empty array. Else, return an array consisting
      * of two elements denoting L and R. If there are multiple solutions, return the lexicographically smallest
      * pair of L and R.
+     *
+     * Input 1:
+     *
+     * A = "010"
+     *
+     *
+     * Output 1:
+     *
+     * [1, 1]
+     *
+     * A = "010"
+     *
+     * Pair of [L, R] | Final string
+     * _______________|_____________
+     * [1 1]          | "110"
+     * [1 2]          | "100"
+     * [1 3]          | "101"
+     * [2 2]          | "000"
+     * [2 3]          | "001"
+     *
+     * We see that two pairs [1, 1] and [1, 3] give same number of 1s in final string. So, we return [1, 1].
      */
     private static int[] flip(String A) {
         int sum=0;
@@ -27,6 +49,7 @@ public class MaximizeOnesLeftAndRightByFlipping {
 
         for(int i=0; i< A.length(); i++){
 
+            //adding one means flipping zero and adding to the result.
             if(A.charAt(i) == '0')
                 sum = sum + 1;
 

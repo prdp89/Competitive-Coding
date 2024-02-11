@@ -41,19 +41,28 @@ public class DistinctNumberInWindow {
             map.put(A[i], map.getOrDefault(A[i], 0) + 1);
         }
 
-        int start = 0, end = B;
-        res[start++] = map.size();
+        int start = 0, end = B, distinctCount = map.size();
+        res[start++] = distinctCount;
 
 
         for(int i=B; i<A.length; i++) {
 
-            if(map.get(A[i-B]) == 1)
+            // Remove the first element from the previous window
+            if(map.get(A[i-B]) == 1) {
                 map.remove(A[i-B]);
+                distinctCount--;
+            }
             else
                 map.put(A[i-B], map.get(A[i-B]) - 1);
 
-            map.put(A[i], map.getOrDefault(A[i], 0) + 1);
-            res[start++] = map.size();
+            if(map.containsKey(A[i])) {
+                map.put(A[i], map.get(A[i]) + 1);
+            } else {
+                map.put(A[i], 1);
+                distinctCount++;
+            }
+
+            res[start++] = distinctCount; //map.size();
         }
 
         return res;

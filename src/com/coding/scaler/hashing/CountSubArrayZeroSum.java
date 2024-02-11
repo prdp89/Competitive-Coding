@@ -39,6 +39,10 @@ public class CountSubArrayZeroSum {
                 ans += map.get(sum);
             }
 
+            //this will also work if we comment: map.put(0L, 1);
+//            if(sum == 0)
+//                ans++;
+
             map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
 

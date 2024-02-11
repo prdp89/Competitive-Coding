@@ -6,6 +6,12 @@ public class LengthOfConsecutiveOnes {
         System.out.println(solve("111011101"));
     }
 
+    /**
+     * Given a binary string A. It is allowed to do at most one swap between any 0 and 1.
+     * Find and return the length of the longest consecutive 1’s that can be achieved.
+     * @param nums
+     * @return
+     */
     private static int solve(String nums) {
 
         int sum = 0;

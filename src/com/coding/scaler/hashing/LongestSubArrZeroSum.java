@@ -43,6 +43,7 @@ public class LongestSubArrZeroSum {
             }
 
             //good corner case :)
+            // Subarray starting from index 0
             if(prefix[i] == 0) {
                 max_val = Math.max(max_val, i+1);
             }
