@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class ReverseStringByWord {
 
     public static void main(String[] args) {
-        //System.out.println(solve("the sky is blue"));
+        System.out.println(solve("the sky is blue"));
 
 
 

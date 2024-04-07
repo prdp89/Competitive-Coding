@@ -4,140 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff48b9d8-101f-4035-b3fd-782a19984aaa" name="Default Changelist" comment="- Adding Scaler coding practices.">
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/Recursion/CombinationSumOfSizeK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/Recursion/GenerateParantheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/Recursion/TowerOfHanoii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/AddOneToNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/MaxSumContinuousArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/InversionCountInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/MergeTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/ReversePair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/SingleArrayThreeIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/WaveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/insertion_quick/FirstNMinusOneElementsAreSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/insertion_quick/MaxChunksToSortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/insertion_quick/RearrangeArrayZeroElementToLeftAndRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/insertion_quick/UniqueElementsArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/radix_quick/FindSmallestNumberByArrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/radix_quick/MaxUnsortedSubArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/radix_quick/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/radix_quick/SortArrayWithKthDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/radix_quick/SumTheDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/two_pointers/PairWithGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/twodarray/MaxSumSquareSubMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/twodarray/MinSwapsToSortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/twodarray/RowWithMaxOnesSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/NthMagicalNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/PeakElementInArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/SearchForRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/SearchSortedRotatedArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/SingleElementSortedArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/SortInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/SortedArrFirstOccurOfEle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/SquareRootOfN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/on_answers/AggressiveCowsReal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/on_answers/AggressiveCowsSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/on_answers/AllocateBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/on_answers/BackPackWithBBags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/on_answers/PainterPartitionReal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/on_answers/PainterPartitionSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/binary_search/on_answers/SpecialInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/bit_manipulation/BinaryPrefixDivBy5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/bit_manipulation/FindMaxAiAndAj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/bit_manipulation/FindNumNotAppearThrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/bit_manipulation/FindTwoNumsAppearOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/DungeonGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/LongestFiboSubseq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/MaxRectBinaryMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/MaxSumWithoutAdjacentElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/NthFibonacciNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/UniqueBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/knapsack/BirthdayParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/knapsack/BuyingCandies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/knapsack/FractionalKnapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/knapsack/LetsParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/knapsack/RodCutting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/dp/strings/DistinctSubseq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/AdjacentBlackShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/CycleInDirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/FirstDepthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/KnightOnBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/MaxDepthOfTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/MoveInRectangleContainCircles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/NumberOfIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/PathInDirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/ShortestDistanceUndirected.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/TopologicalSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/interview_problems/NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/interview_problems/NumberOfDigitOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/linked_list/KReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/linked_list/RemoveNthFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/ABAndModulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/APowerBFactModM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/ModSumAllSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/PairSumDivisiblebyK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/PrimeModuloInverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/ReArrangeArrayO1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/combitronics/ExcelColumnTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/combitronics/ExcelNumberCol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/combitronics/FindNCRModM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/combitronics/FindNCRModP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/gcd/ADivideBAndC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/gcd/AkillBReducePower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/gcd/DeleteOneMaxGCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/gcd/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/gcd/LargeNumberGCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/gcd/LargestCoPrimeDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/prime/CloseAlternateDoors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/prime/CountNumberOfDivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/prime/CountOfDivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/prime/FindIfRectOverlap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/prime/FindPrimeInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/prime/LuckyNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/prime/PrimeSumEqualsN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/maths/prime/SmallestPrimeFactorOfN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/stacks/DoubleCharTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/stacks/EvaluateExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/stacks/InFixToPostfix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/stacks/RemoveRedudantBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/strings/IsomorphicStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/RotateBTimesToRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/prefix/EquilibriumIndexArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/prefix/EvenNumsInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/sliding_window/SubArrayWithLeastAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/sorting/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/sorting/NobelIntegerInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/sorting/SortByColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/two_pointers/ClosestPairSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/two_pointers/CountRectangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/two_pointers/PairWithGivenSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/two_pointers/PairsWithGivenDiff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/two_pointers/SubArrayGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/two_pointers/ThreeSortedArrayMaximizeTheMinDiff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/basics/DivBy8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/basics/ModArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/hashing/advance/CountSubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/hashing/advance/LongestConseSeq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/hashing/advance/MinPairDiff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/hashing/advance/SortArrInOrderOfB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/hashing/advance/SubArrSumEqualsK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/strings/ReplicatingStrings.java" afterDir="false" />
+    <list default="true" id="ff48b9d8-101f-4035-b3fd-782a19984aaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/CycleUnDirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/greedy/BuyCarWithTimeAndMaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/greedy/MaxJobsFinish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/greedy/SmallestCoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/heap/MaxSumBNegations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/heap/MergeKSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/heap/MishaAndHalfCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/queue/NIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/queue/SlidingWindowMaxOfSizeB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/queue/SumMinMaxSlidingWindowB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/stacks/MaxMinSumAllSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/stacks/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/stacks/NextSmallerElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/stacks/SortUsingStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/AddElementToGivenRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/AddElementToGivenRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/MaxAbsoluteDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/MaxAbsoluteDiff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/MaximizeOnesLeftAndRightByFlipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/MaximizeOnesLeftAndRightByFlipping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/twodarray/MaxSubMatrixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/twodarray/MaxSubMatrixSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/twodarray/SubmatrixSumWithQueries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/twodarray/SubmatrixSumWithQueries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/advance/interview_problems/FirstMissingInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/interview_problems/FirstMissingInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/arrays/carry_forward/TurnOnBulbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/carry_forward/TurnOnBulbs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/arrays/interview_problems/LengthOfConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/arrays/interview_problems/LengthOfConsecutiveOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/hashing/CountSubArrayZeroSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/hashing/CountSubArrayZeroSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/hashing/DistinctNumberInWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/hashing/DistinctNumberInWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/hashing/FreEleQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/hashing/FreEleQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/hashing/LongestSubArrZeroSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/hashing/LongestSubArrZeroSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/strings/LongestPalindSubStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/strings/LongestPalindSubStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/radix_quick/MaxUnsortedSubArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/arrays/sorting/radix_quick/MaxUnsortedSubArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/CycleInDirectedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/advance/graph/CycleInDirectedGraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/coding/scaler/strings/ReverseStringByWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/scaler/strings/ReverseStringByWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,20 +68,20 @@
       <recent name="com.coding.binarysearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InFixToPostfix">
+  <component name="RunManager" selected="Application.PeakElementInArr">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="InFixToPostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.scaler.advance.stacks.InFixToPostfix" />
+    <configuration name="FirstNMinusOneElementsAreSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.scaler.advance.arrays.sorting.insertion_quick.FirstNMinusOneElementsAreSorted" />
       <module name="competitive coding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.scaler.advance.stacks.*" />
+          <option name="PATTERN" value="com.coding.scaler.advance.arrays.sorting.insertion_quick.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,13 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KnightOnBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.scaler.advance.graph.KnightOnBoard" />
+    <configuration name="MaxJobsFinish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.scaler.advance.greedy.MaxJobsFinish" />
       <module name="competitive coding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.scaler.advance.graph.*" />
+          <option name="PATTERN" value="com.coding.scaler.advance.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,13 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDepthOfTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.scaler.advance.graph.MaxDepthOfTree" />
+    <configuration name="NIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.scaler.advance.queue.NIntegers" />
       <module name="competitive coding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.scaler.advance.graph.*" />
+          <option name="PATTERN" value="com.coding.scaler.advance.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,13 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveInRectangleContainCircles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.scaler.advance.graph.MoveInRectangleContainCircles" />
+    <configuration name="PeakElementInArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.scaler.advance.binary_search.PeakElementInArr" />
       <module name="competitive coding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.scaler.advance.graph.*" />
+          <option name="PATTERN" value="com.coding.scaler.advance.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,13 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveRedudantBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.scaler.advance.stacks.RemoveRedudantBrackets" />
+    <configuration name="ReverseStringByWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.scaler.strings.ReverseStringByWord" />
       <module name="competitive coding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.scaler.advance.stacks.*" />
+          <option name="PATTERN" value="com.coding.scaler.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InFixToPostfix" />
-        <item itemvalue="Application.RemoveRedudantBrackets" />
-        <item itemvalue="Application.MoveInRectangleContainCircles" />
-        <item itemvalue="Application.MaxDepthOfTree" />
-        <item itemvalue="Application.KnightOnBoard" />
+        <item itemvalue="Application.PeakElementInArr" />
+        <item itemvalue="Application.NIntegers" />
+        <item itemvalue="Application.ReverseStringByWord" />
+        <item itemvalue="Application.FirstNMinusOneElementsAreSorted" />
+        <item itemvalue="Application.MaxJobsFinish" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690957371646</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- Adding Scaler coding practices.">
+      <created>1707683963255</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707683963255</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,6 +433,21 @@
           <url>file://$PROJECT_DIR$/src/com/coding/scaler/advance/dp/knapsack/RodCutting.java</url>
           <line>28</line>
           <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/coding/scaler/advance/interview_problems/FirstMissingInteger.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/coding/scaler/advance/maths/ReArrangeArrayO1.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/coding/scaler/advance/greedy/MaxJobsFinish.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

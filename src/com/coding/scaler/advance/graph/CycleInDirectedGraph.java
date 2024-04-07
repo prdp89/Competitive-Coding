@@ -74,8 +74,9 @@ public class CycleInDirectedGraph {
             if(visited[adj] == 0) {
                 dfs(adj, graph, visited);
             }
-            else if(visited[adj] == 1)
-                return;
+            else if(visited[adj] == 1) {
+                hasCycle = 1;
+            }
         }
 
         //to mark as revisited to preserve a state. see notes for more clarity.
